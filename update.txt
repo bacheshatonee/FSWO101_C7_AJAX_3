@@ -1,0 +1,22 @@
+<br>
+
+<h1>Alan Turing</h1>
+
+<br>
+<br>
+
+<img src="young_turing.jpg" alt="Alan Turing">
+
+<br>
+<br>
+
+<p>
+<h1> Alan Mathison Turing </h1>
+<h2> 23 June 1912 – 7 June 1954 </h2>
+
+<br>
+
+During WWII Turing worked for the Government Code & Cypher School, Britain's codebreaking center.  While there he developed the "Turing machine" <br>
+which was instrumental in the Allies defeat of the Axis powers.  After the war he was prosecuted for homosexual acts and was chemically castrated.  <br>
+Later being posthumously pardoned by Queen Elizabeth II.
+</p>
